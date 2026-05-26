@@ -3,7 +3,8 @@ name: Deploy CP Scorer PWA
 on:
   push:
     branches: [main]
-    paths: [cp-scorer/**]
+    paths: [cp-scorer/**, .github/workflows/deploy-cp-scorer.yml]
+  workflow_dispatch:
 
 permissions:
   contents: read
