@@ -1,0 +1,1 @@
+{"name":"CP值評分系統","short_name":"CP評分","description":"量化比較的 CP 值評分工具","start_url":"/","display":"standalone","background_color":"#08080d","theme_color":"#08080d","lang":"en","scope":"/","orientation":"portrait","icons":[{"src":"pwa-192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
